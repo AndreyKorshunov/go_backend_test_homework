@@ -1,3 +1,4 @@
+// Первая программа
 package main
 
 import (
